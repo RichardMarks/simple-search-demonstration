@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+span {
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 0.75rem;
+  color: rgb(36, 74, 155);
+}

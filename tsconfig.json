@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "jsxFactory": "React.createElement",
+    "jsxFragmentFactory": "React.Fragment",
+    "esModuleInterop": true
+  }
+}
